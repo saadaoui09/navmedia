@@ -1,0 +1,21 @@
+.nav{
+    background-color: rgb(56, 51, 51);
+    height: 60px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.nav > a{
+
+    color: red;
+}
+@media (max-width:
+768px)  {
+    .nav{
+flex-direction: column;
+    }
+
+
+} 
